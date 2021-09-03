@@ -1,0 +1,91 @@
+{
+  "main": {
+    "name": "Jay Patel",
+    "occupation": "Student",
+    "description": "Enthusiastic, highly-motivated student with leadership capabilities, who likes to take initiative and seek out new challenges",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jay.patel.1@hotmail.com",
+    "phone": "9326194769",
+    "address": {
+      "street": "",
+      "city": "Mumbai",
+      "state": "Maharastra",
+      "zip": "400066"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+    
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/jaypatelllll",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaypateldg/",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/jaypatelll1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "St Xavier’s High School ",
+        "degree": "SSC",
+        "graduated": "2019",
+        "description": ""
+      },
+      {
+        "school": "Thakur Polytechin",
+        "degree": "Diploma in Computer Engineering",
+        "graduated": "Ongoing",
+        "description": ""
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+     
+      {
+        "name": "Java",
+        "level": "70%"
+      }
+     
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Really,the only thing that makes sense is to strive for greater collective englightenment.",
+        "user": "Elon Musk"
+      }
+    
+    ]
+  }
+}
