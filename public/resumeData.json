@@ -43,34 +43,26 @@
         "school": "St Xavier’s High School ",
         "degree": "SSC",
         "graduated": "2019",
-        "description": ""
+        "description": "64.69"
       },
       {
         "school": "Thakur Polytechin",
         "degree": "Diploma in Computer Engineering",
-        "graduated": "Ongoing",
-        "description": ""
+        "graduated": "2022",
+        "description": "89.54"
       }
     ],
     
     "skills": [
       {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
         "name": "ReactJs",
-        "level": "40%"
+        "level": "80%"
       },
-     
+      {
+        "name": "React-native",
+        "level": "80%"
+      },
+      
       {
         "name": "Java",
         "level": "70%"
